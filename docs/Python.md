@@ -1,6 +1,6 @@
 # Books
 
- # The best python books to undesrtand the language
+ # The best python books to understand the language
  <table>
 <tr><td><img src="pics/python/dummies.png" alt="Dummies" style="height: 104px; width:78px;"/></td><td><p>Python for Data Science, for dummies</p></td><td>Intro to python from scratch for non-programmers.</td></tr>
  <tr><td><img src="pics/python/primer.png" alt="Primer" style="height: 104px; width:78px;"/></td><td><p>A Primer on Scientifical Programming with python, Langtangen</p></td><td>Intro to python from a scientific programming perspective: dealing with numerical errors, code optimization, performance, algorithm convergence.</td></tr>
